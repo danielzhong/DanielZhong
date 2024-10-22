@@ -1,6 +1,6 @@
 ![MasterHead](game.gif)
 
-<h1 align="center">👋 Hi, I'm Daniel Zhong — Graphics Engineer for Games</h1>
+<h1 align="center">👋 Hi, I'm Daniel Zhong — Graphics Engineer & Game Developer</h1>
 
 
 - 🌱 I’m currently learning **Vulkan, Mixed Reality**
