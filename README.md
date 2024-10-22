@@ -11,4 +11,6 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fL7H3UvhWeHKzBum_oczm8dtVamDIp2m/view?usp=sharing">Resume</a>
 
-- ⚡ Please check **my amazing projects at pinned section**
+- ⚡ **Computer Graphics:** Please check **my amazing Computer Graphics projects at pinned section**
+
+- ⚡ **Game Projects:** <a href="https://github.com/DanielZhong/GameProjects">REPO</a>
