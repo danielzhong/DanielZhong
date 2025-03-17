@@ -2,8 +2,8 @@
 
 <h1 align="center">👋 Hi, I'm Daniel Zhong — Graphics Engineer & Game Developer</h1>
 
-
-- 🌱 I’m currently learning **Vulkan, Mixed Reality**
+- 📃 <a href="https://danielzhong.github.io/">Personal Portfolio/Demo</a>
+- 📚 I’m currently learning **Vulkan, Mixed Reality**
 
 - 💬 Ask me about **Unity, UE5, WebGPU, OpenGL, CUDA**
 
@@ -13,4 +13,4 @@
 
 - ⚡ **Computer Graphics:** Please check **my amazing Computer Graphics projects at pinned section**
 
-- ⚡ **Game Projects:** <a href="https://github.com/DanielZhong/GameProjects">REPO</a>
+- 🎮 **Game Projects:** <a href="https://github.com/DanielZhong/GameProjects">REPO</a>
