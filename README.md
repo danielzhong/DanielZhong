@@ -9,6 +9,6 @@
 
 - 📫 How to reach me **danielzhong2000@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Pw2EPJgsfZwKtJNsQOrQtbYXzQoNVcZa/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1L4y1i7mKOWKg7OTCoo6hW9ddrmD_pr-i/view?usp=sharing">Resume</a>
 
 - ⚡ **Projects REPO:** Please check **my amazings projects at pinned section**
