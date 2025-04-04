@@ -5,7 +5,7 @@
 - 📃 <a href="https://danielzhong.github.io/">Personal Portfolio/Demo</a>
 - 📚 I’m currently learning **Vulkan, Mixed Reality**
 
-- 💬 Ask me about **Unity, UE5, WebGPU, OpenGL, CUDA**
+- 💬 Ask me about **C++, TypeScript, Unity, UE5, WebGPU, OpenGL, CUDA**
 
 - 📫 How to reach me **danielzhong2000@gmail.com**
 
