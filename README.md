@@ -1,6 +1,6 @@
 ![MasterHead](game.gif)
 
-<h1 align="center">👋 Hi
+<h1 align="center">👋 Hi </h1> 
 
 - 📃 <a href="https://danielzhong.github.io/">Personal Website & Demo</a>
 - 📚 I’m currently learning **Vulkan, Mixed Reality**
