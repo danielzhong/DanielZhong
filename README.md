@@ -1,8 +1,7 @@
-![MasterHead](game.gif)
+![MasterHead](game.gif) 
 
-<h1>👋 Hi </h1> 
+- 📃 <a href="https://danielzhong.github.io/">Portfolio</a>
 
-- 📃 <a href="https://danielzhong.github.io/">Personal Website & Demo</a>
 - 📚 I’m currently learning **Vulkan, Mixed Reality**
 
 - 💬 Ask me about **C++, TypeScript, Unity, UE5, WebGPU, OpenGL, CUDA**
